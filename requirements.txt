@@ -1,0 +1,19 @@
+# NAS100 Breakout Trading Bot - Python Requirements
+# Install with: pip install -r requirements.txt
+
+# Core trading library
+MetaTrader5>=5.0.45
+
+# Data processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Optional: For Telegram notifications
+requests>=2.26.0
+
+# Optional: For advanced analysis
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional: For logging enhancements
+python-dateutil>=2.8.0
