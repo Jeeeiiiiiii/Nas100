@@ -40,3 +40,8 @@ Thumbs.db
 # *.csv
 # *.json
 # historical_data/
+
+# Log files
+*.log
+*_log.txt
+ultra_optimization_log.txt
